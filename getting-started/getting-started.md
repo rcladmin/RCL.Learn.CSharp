@@ -27,7 +27,7 @@ You can download the IDE at the following link :
 
 5. In the **Configure your new project** window, type or enter **HelloWorld** in the **Project name** box. Select a folder to store the project. Then, click the **Next** button
 
-5. Select the Framework : **.NET 6(Long term support)** and click the **Create** button.
+5. Select the Framework : **.NET 7 (Standard Term Support)** and click the **Create** button.
 
 ## The application code
 
